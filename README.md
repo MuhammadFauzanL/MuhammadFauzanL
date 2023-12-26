@@ -1,6 +1,6 @@
 -  MuhammadFauzanL
--  I’m interested in Data Analyst
--  I’m currently learning Java Lenguange, HTML, CSS 
+-  interested in Data Analyst
+-  currently learning Java Lenguange, HTML, CSS 
 
 
 <!---
