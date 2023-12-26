@@ -1,6 +1,6 @@
 <p align="center">
   <img src="![Uploading a.gif…]()
-" alt="Deskripsi Gif" />
+" />
 </p>
 
 <h1 align="center">Helllo I'm Muhammad Fauzan Lubada </h1>
