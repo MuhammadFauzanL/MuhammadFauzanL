@@ -3,7 +3,7 @@
 <h1 align="center">Helllo I'm Muhammad Fauzan Lubada </h1>
 <h3 align="center">Student of Informatics Engineering Sunan Gunung Djati State Islamic University, Bandung.Interested  Data Analyst and Currently learning Java Lenguange, HTML, CSS and Javascript 
 
-<video src="https://github.com/MuhammadFauzanL/MuhammadFauzanL/assets/141022549/35ebec94-1434-457a-9604-3fef5411d277" autoplay>
+<video href="https://github.com/MuhammadFauzanL/MuhammadFauzanL/assets/141022549/35ebec94-1434-457a-9604-3fef5411d277" autoplay>play</video>
 
 
 
