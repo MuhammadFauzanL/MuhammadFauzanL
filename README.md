@@ -13,7 +13,7 @@
 - 🎓 Currently studying **Informatics Engineering** (Semester 6).
 - 🏆 **BNSP Certified Associate Data Scientist**, experienced in managing the end-to-end data science lifecycle.
 - 💻 **Web Development**: Experienced in building full-stack applications and RESTful APIs.
-- 🚀 **Currently Focusing On**: Advancing my AI Engineering capabilities (Machine Learning & Deep Learning) and integrating AI models into web systems.
+- 🚀 **Currently Focusing On**: Advancing my AI Engineering capabilities through Machine Learning, Deep Learning, and AI integration in web systems.
 - 🤝 **Looking to collaborate on**: Data-driven web applications, IoT backends, and Machine Learning projects.
 
 ---
@@ -21,6 +21,7 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Databases**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -33,6 +34,7 @@
 </p>
 
 **Frameworks & Libraries**
+
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -41,6 +43,7 @@
 </p>
 
 **Data Science, AI & Tools**
+
 <p>
   <img src="https://img.shields.io/badge/RapidMiner-F47C20?style=for-the-badge&logo=rapidminer&logoColor=white" alt="RapidMiner" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
@@ -50,34 +53,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFauzanL&show_icons=true&theme=radium" alt="Fauzan's GitHub Stats" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:fauzanlubada5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-lubada160104"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
----
-
----
-
 ### 🌐 My Portfolio
 
 <p align="center">
   <a href="https://portofolio-website-fauzan.vercel.app/" target="_blank">
     <img 
-      src="assets/portfolio-preview.png" 
-      alt="Muhammad Fauzan Lubada Portfolio Website Preview" 
-      width="85%" 
-      style="border-radius: 12px;"
+      src="./assets/portfolio-preview.png" 
+      alt="" 
+      width="85%"
     />
   </a>
 </p>
@@ -95,5 +78,26 @@
       src="https://img.shields.io/badge/Visit%20My%20Portfolio-2B2D42?style=for-the-badge&logo=googlechrome&logoColor=white" 
       alt="Visit My Portfolio" 
     />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFauzanL&show_icons=true&theme=radium" alt="Fauzan's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:fauzanlubada5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-lubada160104">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
