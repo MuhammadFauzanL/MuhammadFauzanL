@@ -64,3 +64,28 @@
   <a href="mailto:fauzanlubada5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/muhammad-lubada160104"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+---
+
+### 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://portofolio-website-fauzan.vercel.app/" target="_blank">
+    <img 
+      src="assets/portfolio-preview.png" 
+      alt="Portfolio Website Preview" 
+      width="85%" 
+      style="border-radius: 12px;"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>Personal portfolio website showcasing my projects, skills, certifications, and experience in Web Development, Data Science, and AI Engineering.</b>
+</p>
+
+<p align="center">
+  <a href="https://portofolio-website-fauzan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+  </a>
+</p>
