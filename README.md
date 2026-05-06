@@ -3,18 +3,20 @@
 <h3 align="center">Informatics Engineering Student | BNSP Certified Associate Data Scientist | Web Developer</h3>
 
 <p align="center">
-  A 6th-semester student at UIN Sunan Gunung Djati Bandung, passionate about bridging the gap between <b>Software Engineering</b> and <b>Artificial Intelligence</b>. I enjoy building dynamic web applications, architecting databases, and deploying machine learning models to solve real-world problems.
+  A 6th-semester student at UIN Sunan Gunung Djati Bandung, passionate about bridging the gap between 
+  <b>Software Engineering</b> and <b>Artificial Intelligence</b>. I enjoy building dynamic web applications, 
+  architecting databases, and deploying machine learning models to solve real-world problems.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying **Informatics Engineering** (Semester 6).
+- 🎓 Currently studying **Informatics Engineering** at UIN Sunan Gunung Djati Bandung.
 - 🏆 **BNSP Certified Associate Data Scientist**, experienced in managing the end-to-end data science lifecycle.
-- 💻 **Web Development**: Experienced in building full-stack applications and RESTful APIs.
-- 🚀 **Currently Focusing On**: Advancing my AI Engineering capabilities through Machine Learning, Deep Learning, and AI integration in web systems.
-- 🤝 **Looking to collaborate on**: Data-driven web applications, IoT backends, and Machine Learning projects.
+- 💻 Experienced in building **full-stack web applications** and **RESTful APIs**.
+- 🚀 Currently focusing on **Machine Learning, Deep Learning, and AI integration in web systems**.
+- 🤝 Open to collaboration on **data-driven web applications, IoT backends, and Machine Learning projects**.
 
 ---
 
@@ -26,8 +28,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -58,9 +60,9 @@
 <p align="center">
   <a href="https://portofolio-website-fauzan.vercel.app/" target="_blank">
     <img 
-      src="./assets/portfolio-preview.png" 
-      alt="" 
-      width="85%"
+      src="https://raw.githubusercontent.com/MuhammadFauzanL/MuhammadFauzanL/main/assets/portfolio-preview.png" 
+      width="85%" 
+      alt=""
     />
   </a>
 </p>
@@ -87,9 +89,22 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MuhammadFauzanL&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadFauzanL&theme=github_dark" 
+    width="85%" 
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MuhammadFauzanL&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" 
     width="48%" 
+    alt=""
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFauzanL&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" 
+    width="36%" 
+    alt=""
   />
 </p>
 
