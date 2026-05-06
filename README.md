@@ -67,13 +67,15 @@
 
 ---
 
+---
+
 ### 🌐 My Portfolio
 
 <p align="center">
   <a href="https://portofolio-website-fauzan.vercel.app/" target="_blank">
     <img 
       src="assets/portfolio-preview.png" 
-      alt="Portfolio Website Preview" 
+      alt="Muhammad Fauzan Lubada Portfolio Website Preview" 
       width="85%" 
       style="border-radius: 12px;"
     />
@@ -81,11 +83,17 @@
 </p>
 
 <p align="center">
-  <b>Personal portfolio website showcasing my projects, skills, certifications, and experience in Web Development, Data Science, and AI Engineering.</b>
+  <b>
+    Personal portfolio website showcasing my projects, skills, certifications, and experience 
+    in Web Development, Data Science, and AI Engineering.
+  </b>
 </p>
 
 <p align="center">
   <a href="https://portofolio-website-fauzan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+    <img 
+      src="https://img.shields.io/badge/Visit%20My%20Portfolio-2B2D42?style=for-the-badge&logo=googlechrome&logoColor=white" 
+      alt="Visit My Portfolio" 
+    />
   </a>
 </p>
