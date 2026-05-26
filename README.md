@@ -11,7 +11,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying **Informatics Engineering** at UIN Sunan Gunung Djati Bandung.
 - 🏆 **BNSP Certified Associate Data Scientist**, experienced in managing the end-to-end data science lifecycle.
 - 💻 Experienced in building **full-stack web applications** and **RESTful APIs**.
 - 🚀 Currently focusing on **Machine Learning, Deep Learning, and AI integration in web systems**.
