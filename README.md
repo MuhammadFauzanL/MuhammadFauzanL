@@ -3,7 +3,6 @@
 <h3 align="center">Informatics Engineering Student | BNSP Certified Associate Data Scientist | Web Developer</h3>
 
 <p align="center">
-  A 6th-semester student at UIN Sunan Gunung Djati Bandung, passionate about bridging the gap between 
   <b>Software Engineering</b> and <b>Artificial Intelligence</b>. I enjoy building dynamic web applications, 
   architecting databases, and deploying machine learning models to solve real-world problems.
 </p>
@@ -116,7 +115,7 @@
   <a href="mailto:fauzanlubada5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-lubada160104">
+  <a href="https://www.linkedin.com/in/muhammabada160104">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
