@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Muhammad Fauzan Lubada 👋</h1>
 
-<h3 align="center">Informatics Engineering Student | BNSP Certified Associate Data Scientist | Web Developer</h3>
+<h3 align="center">Informatics Engineering Studen | BNSP Certified Associate Data Scientist | Web Developer</h3>
 
 <p align="center">
   <b>Software Engineering</b> and <b>Artificial Intelligence</b>. I enjoy building dynamic web applications, 
