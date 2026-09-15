@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Muhammad Fauzan Lubada 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Fauzan Lubada </h1>
 
 <h3 align="center">Informatics Engineering | BNSP Certified Associate Data Scientist | Web Developer</h3>
 
@@ -9,12 +9,12 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🏆 **BNSP Certified Associate Data Scientist**, experienced in managing the end-to-end data science lifecycle.
-- 💻 Experienced in building **full-stack web applications** and **RESTful APIs**.
-- 🚀 Currently focusing on **Machine Learning, Deep Learning, and AI integration in web systems**.
-- 🤝 Open to collaboration on **data-driven web applications, IoT backends, and Machine Learning projects**.
+- **BNSP Certified Associate Data Scientist**, experienced in managing the end-to-end data science lifecycle.
+- Experienced in building **full-stack web applications** and **RESTful APIs**.
+- Currently focusing on **Machine Learning, Deep Learning, and AI integration in web systems**.
+- Open to collaboration on **data-driven web applications, IoT backends, and Machine Learning projects**.
 
 ---
 
@@ -53,10 +53,10 @@
 
 ---
 
-### 🌐 My Portfolio
+###  My Portfolio
 
 <p align="center">
-  <a href="https://portofolio-website-fauzan.vercel.app/" target="_blank">
+  <a href="https://mflubada.my.id" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/MuhammadFauzanL/MuhammadFauzanL/main/assets/portfolio-preview.png" 
       width="85%" 
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portofolio-website-fauzan.vercel.app/" target="_blank">
+  <a href="https://mflubada.my.id" target="_blank">
     <img 
       src="https://img.shields.io/badge/Visit%20My%20Portfolio-2B2D42?style=for-the-badge&logo=googlechrome&logoColor=white" 
       alt="Visit My Portfolio" 
@@ -83,7 +83,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img 
@@ -108,7 +108,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="mailto:fauzanlubada5@gmail.com">
